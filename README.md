@@ -1110,7 +1110,7 @@ Data dans la réponse :
       "displayDate":"le vendredi 19 novembre 2021 de 08:30 à 16:30",
       "libelle":"2 demi-journées",
       "motif":"",
-      "justifie":true, //bool | Si jamais justufié ou non (note : si jamais elle est en attente de justification, elle sera a true)
+      "justifie":true, //bool | Si justifié ou non (note : si jamais elle est en attente de justification, elle sera a true)
       "par":"",
       "commentaire":"Merci de bien vouloir excuser l'absence de X pour la journée, il est souffrant.\nBien cordialement,",
       "typeJustification":" en attente de prise en compte par la vie scolaire",
